@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "building-rest-apis-with-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a book-management REST API with FastAPI, request validation, and CRUD endpoints.",
+      "path": "assignments/building-rest-apis-with-fastapi",
+      "dueDate": "2026-10-08"
+    },
+    {
+      "id": "data-structures-in-python",
+      "title": "Data Structures in Python",
+      "description": "Practice lists, dictionaries, sets, and tuples by building a small book collection program.",
+      "path": "assignments/data-structures-in-python",
+      "dueDate": "2026-10-08"
     }
   ]
 }
