@@ -72,6 +72,20 @@
       "description": "Practice lists, dictionaries, sets, and tuples by building a small book collection program.",
       "path": "assignments/data-structures-in-python",
       "dueDate": "2026-10-08"
+    },
+    {
+      "id": "sqlite-persistent-storage",
+      "title": "SQLite and Persistent Storage",
+      "description": "Add SQLite persistence to a task-tracking API using Python's built-in sqlite3 module.",
+      "path": "assignments/sqlite-persistent-storage",
+      "dueDate": "2026-10-08"
+    },
+    {
+      "id": "testing-sqlite-task-api",
+      "title": "Testing a SQLite Task API with pytest",
+      "description": "Write automated tests for a SQLite-backed task API using pytest and FastAPI's test client.",
+      "path": "assignments/testing-sqlite-task-api",
+      "dueDate": "2026-10-08"
     }
   ]
 }
